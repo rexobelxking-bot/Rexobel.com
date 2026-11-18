@@ -1,0 +1,8 @@
+{
+  "name": "VELTRON",
+  "description": "Architectural luxury streetwear and technical outerwear storefront for VELTRON with member accounts, custom profile pictures, saved wishlists, and order checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "usr_demo_elena",
+      "name": "Elena Vance",
+      "email": "elena@veltron.studio",
+      "handle": "elenavance",
+      "bio": "Architectural silhouettes, heavy Italian gabardine, and monochrome layering.",
+      "avatarUrl": null,
+      "preferredSize": "M",
+      "shippingAddress": {
+        "fullName": "Elena Vance",
+        "line1": "42 Redchurch Street, Shoreditch",
+        "city": "London",
+        "postalCode": "E2 7DP",
+        "country": "United Kingdom"
+      },
+      "wishlist": [
+        "vlt-trench-01",
+        "vlt-tote-06"
+      ],
+      "orders": [
+        {
+          "id": "ord_seed_1042",
+          "orderNumber": "VLT-1042",
+          "createdAt": "2026-10-14T14:22:00.000Z",
+          "status": "Shipped",
+          "subtotal": 555,
+          "shippingFee": 0,
+          "total": 555,
+          "shippingAddress": {
+            "fullName": "Elena Vance",
+            "line1": "42 Redchurch Street, Shoreditch",
+            "city": "London",
+            "postalCode": "E2 7DP",
+            "country": "United Kingdom"
+          },
+          "items": [
+            {
+              "productId": "vlt-hoodie-02",
+              "sku": "VLT-AW26-02",
+              "name": "Heavyweight 520gsm Box Hoodie",
+              "size": "M",
+              "quantity": 1,
+              "unitPrice": 245,
+              "image": "/src/assets/images/veltron_heavy_hoodie_1795022474590.jpg"
+            },
+            {
+              "productId": "vlt-knit-04",
+              "sku": "VLT-AW26-04",
+              "name": "Ribbed Undyed Merino Mock-Neck",
+              "size": "M",
+              "quantity": 1,
+              "unitPrice": 310,
+              "image": "/src/assets/images/veltron_merino_knit_1795022474713.jpg"
+            }
+          ]
+        }
+      ],
+      "memberSince": "2025-09-12T09:00:00.000Z",
+      "passwordSalt": "fc46e2f3674b00cdc74bbda07275d92c",
+      "passwordHash": "f9ae369988f0607a5259267a75834d8b238a8f8ad983df35bf46247429ffcfcd0b5f3355ad950618c3723cac7f1401ed1f2be458f893f5d15a8aff10d7bea1f2"
+    }
+  ],
+  "sessions": {
+    "7d0d4667661f63d147fa54056a26b132324bd7c774b945fa6c098d436a645e40": {
+      "userId": "usr_demo_elena",
+      "createdAt": "2026-11-18T18:01:13.724Z"
+    }
+  },
+  "supportTickets": [
+    {
+      "id": "sup_b15eca52-6",
+      "ticketNumber": "VLT-SUP-5873",
+      "name": "Test User",
+      "email": "test@example.com",
+      "message": "Checking sizing for Trench Coat",
+      "createdAt": "2026-11-18T18:04:09.373Z"
+    }
+  ]
+}
